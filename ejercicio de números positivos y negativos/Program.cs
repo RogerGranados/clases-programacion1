@@ -12,7 +12,7 @@ namespace ejercicio_de_números_positivos_y_negativos
         {
             int number;
 
-            // Bucle que se ejecuta hasta que se ingrese el número 0
+            
             do
             {
                 Console.Write("Ingrese un número (0 para salir): ");
